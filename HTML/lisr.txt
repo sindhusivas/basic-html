@@ -1,0 +1,18 @@
+List - > To list out the content either ordered or unordered wise i.e. inserting bulleting
+
+1. Ordered List - Alphabets,numbers and roman letters
+<OL> - ORDERED LIST
+<LI> </LI> - LISTING THE ITEMS
+
+</OL>
+
+SYNTAX:
+
+			<ol type = "A/a/1/I/i" start="3">
+
+			</ol>
+2. Unordered List - Symbols
+			<ul type = "disc/circle/square">
+
+			</ul>
+3. Description List
